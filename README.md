@@ -1,4 +1,4 @@
-# stonx
+# Stonx
 
 Stock Trading Website
 
